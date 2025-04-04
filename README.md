@@ -1,4 +1,5 @@
-# LoaderClient
-Cross-platform logistics app with real-time vehicle booking, expense tracking, and multilingual support.
-
-Run npm install and then run npx react-native run-android
+# Loader-Client
+1. Clone the Repository to your local storage.
+2. Open the folder in VS Code
+3. Run the command 'npm install' to install node modules
+4. Run commands 'npm start' and 'npm run android' to run the project 
